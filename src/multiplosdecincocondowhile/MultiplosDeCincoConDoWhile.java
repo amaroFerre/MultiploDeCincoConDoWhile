@@ -21,6 +21,19 @@ public class MultiplosDeCincoConDoWhile {
     
     int numero = -5;
     
+    // Creo el bucle do-while
+    
+    do {
+      // Al numero que le hemos dado un valor de -5 le voy sumando cinco
+      numero = numero + 5;
+      
+      
+      
+      System.out.println(numero);
+      
+     // Al número le sumo 5 hasta que numero sea igual o mayor que 100
+    }while (numero < 100);
+    
   }
   
 }
