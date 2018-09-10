@@ -16,6 +16,11 @@ public class MultiplosDeCincoConDoWhile {
    */
   public static void main(String[] args) {
     // TODO code application logic here
+    
+    // Creo una variable de tipo entero, con el valor de -5
+    
+    int numero = -5;
+    
   }
   
 }
